@@ -1,0 +1,334 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+MERGED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-1367:12
+MERGED from [:PxrPlatform:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\0c878cd6e955bbaf78f56ae018bf7efa\PxrPlatform\AndroidManifest.xml:2:1-10:12
+MERGED from [:pxr_api-release:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\937f705800d54e6d670211b9d88da491\pxr_api-release\AndroidManifest.xml:2:1-11:12
+MERGED from [:tobservicelib:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\034e598c2995b3e3c30c41d9ad0b3cb5\tobservicelib\AndroidManifest.xml:2:1-9:12
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-14:12
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+	package
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:70-110
+		INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:111-157
+	android:versionCode
+		INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:1-5:12
+		INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:2:158-198
+supports-screens
+ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+application
+ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-83
+MERGED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:5-1365:19
+MERGED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:5-1365:19
+MERGED from [:pxr_api-release:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\937f705800d54e6d670211b9d88da491\pxr_api-release\AndroidManifest.xml:9:5-48
+MERGED from [:pxr_api-release:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\937f705800d54e6d670211b9d88da491\pxr_api-release\AndroidManifest.xml:9:5-48
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-12:19
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-12:19
+	android:requestLegacyExternalStorage
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:9-52
+	android:extractNativeLibs
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:9-41
+	android:label
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+	android:allowBackup
+		ADDED from [:pxr_api-release:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\937f705800d54e6d670211b9d88da491\pxr_api-release\AndroidManifest.xml:9:18-45
+	android:icon
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+uses-sdk
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+MERGED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:PxrPlatform:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\0c878cd6e955bbaf78f56ae018bf7efa\PxrPlatform\AndroidManifest.xml:6:5-8:41
+MERGED from [:PxrPlatform:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\0c878cd6e955bbaf78f56ae018bf7efa\PxrPlatform\AndroidManifest.xml:6:5-8:41
+MERGED from [:pxr_api-release:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\937f705800d54e6d670211b9d88da491\pxr_api-release\AndroidManifest.xml:5:5-7:41
+MERGED from [:pxr_api-release:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\937f705800d54e6d670211b9d88da491\pxr_api-release\AndroidManifest.xml:5:5-7:41
+MERGED from [:tobservicelib:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\034e598c2995b3e3c30c41d9ad0b3cb5\tobservicelib\AndroidManifest.xml:5:5-7:41
+MERGED from [:tobservicelib:] C:\Users\cmdesktop\.gradle\caches\transforms-2\files-2.1\034e598c2995b3e3c30c41d9ad0b3cb5\tobservicelib\AndroidManifest.xml:5:5-7:41
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+uses-feature#0x00030000
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+uses-feature#android.hardware.vulkan.version
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:22-64
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:5-21:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:5-24:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:26:9-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:5-73
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:22-70
+uses-permission#com.picovr.permission.EYE_TRACKING
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:5-74
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:22-71
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:9-55:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-11:20
+MERGED from [:unityLibrary:xrmanifest.androidlib] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\xrmanifest.androidlib\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-11:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:41:13-50
+	android:launchMode
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:38:13-48
+	android:resizeableActivity
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:40:13-47
+	android:configChanges
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:13-194
+	android:theme
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-54
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:49:13-51:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:17-57
+meta-data#android.notch_support
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-54:40
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:17-37
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:17-53
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:9-59:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:9-62:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-47
+meta-data#unity.launch-fullscreen
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:9-65:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:65:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-51
+meta-data#unity.allow-resizable-window
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:66:9-68:37
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:68:13-34
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:67:13-56
+meta-data#notch.config
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:69:9-71:50
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:71:13-47
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:70:13-40
+meta-data#unity.auto-report-fully-drawn
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:72:9-74:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:74:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:73:13-57
+meta-data#pvr.app.id
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:75:9-77:44
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:77:13-41
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:76:13-38
+meta-data#use_record_highlight_feature
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:78:9-80:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:80:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:79:13-56
+meta-data#pvr.app.type
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:81:9-83:34
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:83:13-31
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:82:13-40
+meta-data#pvr.sdk.version
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:84:9-86:49
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:86:13-46
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:85:13-43
+meta-data#enable_cpt
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:87:9-89:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:89:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:88:13-38
+meta-data#handtracking
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:90:9-92:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:92:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:91:13-40
+meta-data#rendering_mode
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:93:9-95:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:95:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:94:13-42
+meta-data#display_rate
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:96:9-98:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:98:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:97:13-40
+meta-data#color_Space
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:99:9-101:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:101:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:100:13-39
+meta-data#MRCsupport
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:102:9-104:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:104:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:103:13-38
+meta-data#pvr.LateLatching
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:105:9-107:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:107:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:106:13-44
+meta-data#pvr.LateLatchingDebug
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:108:9-110:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:110:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:109:13-49
+meta-data#pvr.app.splash
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:111:9-113:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:113:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:112:13-42
+meta-data#PICO.swift.feature
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:114:9-116:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:116:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:115:13-46
+meta-data#adaptive_resolution
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:117:9-119:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:119:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:118:13-47
+meta-data#mr_map_require
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:120:9-122:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:122:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:121:13-42
+meta-data#enable_mr
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:123:9-125:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:125:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:124:13-37
+meta-data#enable_vst
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:126:9-128:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:128:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:127:13-38
+meta-data#enable_anchor
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:129:9-131:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:131:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:130:13-41
+meta-data#mr_map_mgr_auto_start
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:132:9-134:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:134:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:133:13-49
+meta-data#picovr.software.eye_tracking
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:135:9-137:33
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:137:13-30
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:136:13-56
+meta-data#eyetracking_calibration
+ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:138:9-140:36
+	android:value
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:140:13-33
+	android:name
+		ADDED from [:unityLibrary] C:\Users\cmdesktop\Documents\IST\Tese\Tapetemagico\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:139:13-51
